@@ -1,12 +1,12 @@
 /*  your css code here. If applicable */
 .container {
-  width: 300px;
-  padding: 20px;
+  width: 200px;
+  padding: 25px;
   
   border: 2px solid #333; 
   border-radius: 10px; 
   text-align: center; 
-  background-color: #f4f4f4; 
+  background-color: #f4f4f4;
 }
 
 /* Shared styles for all colored blocks */
